@@ -15,20 +15,20 @@ Just fill in your answers under each question. Take your time!
 
 ### 1.1 What overall vibe do you want for the website? (Pick one)
 
-- [ ] a) Clean & Minimal — lots of white space, simple layout
+- [x] a) Clean & Minimal — lots of white space, simple layout
 - [ ] b) Fun & Energetic — bright colors, party vibes
 - [ ] c) Dark & Sleek — modern, nightlife/event feel
 - [ ] d) Elegant & Premium — dark/gold tones, luxurious feel
-- [ ] e) Other: _______________
+- [ ] e) Other: \______________\_
 - [ ] f) Ikaw na bahala! — I trust your judgment, surprise me
 
 ### 1.2 Do you have brand colors you already use? (e.g., for your logo, social media, marketing materials)
 
-> Your answer: _______________
+> Your answer: \____White and purple__________\_
 
 ### 1.3 Do you have a logo? If yes, can you upload the file in the contents folder?
 
-- [ ] Yes, I have a logo ready
+- [x] Yes, I have a logo ready
 - [ ] I have one but it needs cleanup
 - [ ] No, I don't have one yet
 - [ ] Ikaw na bahala! — just use whatever works
@@ -38,7 +38,7 @@ Just fill in your answers under each question. Take your time!
 - [ ] a) Handwritten/Script — casual, personal feel
 - [ ] b) Serif — classic, elegant (think: Times New Roman style)
 - [ ] c) Sans-serif — modern, clean (think: Arial/Helvetica style)
-- [ ] d) Mix of script + clean — script for headings, clean for body text
+- [x] d) Mix of script + clean — script for headings, clean for body text
 - [ ] e) Ikaw na bahala! — just make it look good
 
 ---
@@ -47,23 +47,23 @@ Just fill in your answers under each question. Take your time!
 
 ### 2.1 Which pages do you want on your website? (Check all that apply)
 
-- [ ] **Home** — landing page with hero banner, highlights, quick intro
-- [ ] **About Us** — your story, who's behind the business, how it started
-- [ ] **Services / Packages** — showcase of your photobooth packages with descriptions and pricing
-- [ ] **Gallery** — photo/video gallery of past events and sample outputs
-- [ ] **Contact Us** — contact info, service area, social media links
+- [x] **Home** — landing page with hero banner, highlights, quick intro
+- [x] **About Us** — your story, who's behind the business, how it started
+- [x] **Services / Packages** — showcase of your photobooth packages with descriptions and pricing
+- [x] **Gallery** — photo/video gallery of past events and sample outputs
+- [x] **Contact Us** — contact info, service area, social media links
 - [ ] **FAQs** — frequently asked questions (e.g., "How far in advance should I book?", "What's included?")
-- [ ] **Testimonials / Reviews** — customer feedback and reviews from past events
-- [ ] Other pages you want: _______________
+- [x] **Testimonials / Reviews** — customer feedback and reviews from past events
+- [ ] Other pages you want: \______________\_
 - [ ] **Ikaw na bahala!** — just pick the best pages for a photobooth website
 
 ### 2.2 What should visitors see FIRST when they open your website? (Pick one)
 
 - [ ] a) A big hero image/banner with your best event photo + a tagline
-- [ ] b) A short welcome message with a slideshow of event photos
+- [x] b) A short welcome message with a slideshow of event photos
 - [ ] c) Your logo front and center with navigation to all sections
 - [ ] d) Featured packages or services right away
-- [ ] e) Other: _______________
+- [ ] e) Other: \______________\_
 - [ ] f) Ikaw na bahala! — just make it look nice
 
 ---
@@ -75,7 +75,7 @@ Just fill in your answers under each question. Take your time!
 - [ ] **"Book Now" button** — links to your booking method (Messenger, form, etc.)
 - [ ] **"Message us" floating button** — links to Messenger/Email/Instagram/Viber/WhatsApp
 - [ ] **Customer reviews/testimonials section**
-- [ ] **Announcement banner** — for promos, holiday specials, new packages
+- [x] **Announcement banner** — for promos, holiday specials, new packages
 - [ ] **Blog/Updates section** — for posting news, event recaps, updates
 - [ ] **Sample gallery/slideshow** — showing off photobooth outputs from past events
 - [ ] None of these / keep it simple
@@ -83,7 +83,7 @@ Just fill in your answers under each question. Take your time!
 
 ### 3.2 Anything else you'd like on the website that wasn't mentioned above?
 
-> Your answer: _______________
+> Your answer: \______________\_
 
 ---
 
